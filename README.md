@@ -43,7 +43,7 @@ Official implementation and pre-trained models for :
 
 1. Clone this repository and navigate to the root directory:
 ```
-git clone https://github.com/apple/ml-4m
+git clone https://github.com/jdogg9/ml-4m
 cd ml-4m
 ```
 
